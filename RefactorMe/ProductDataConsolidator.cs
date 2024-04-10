@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace RefactorMe
 {
-    public class ProductDataConsolidator
+    public class ProductDataConsolidator : IProductDataConsolidator
     {
         private readonly ICurrencyConverter _currencyConverter;
 

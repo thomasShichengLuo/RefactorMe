@@ -44,6 +44,7 @@
     <Compile Include="Currency\Implementation\NZDToEuroConverter.cs" />
     <Compile Include="Currency\Implementation\NZDToUSDollarConverter.cs" />
     <Compile Include="Currency\ICurrencyConverter.cs" />
+    <Compile Include="IProductDataConsolidator.cs" />
     <Compile Include="ProductDataConsolidator.cs" />
     <Compile Include="ProductNameList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
